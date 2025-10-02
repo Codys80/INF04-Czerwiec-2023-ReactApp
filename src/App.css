@@ -1,0 +1,39 @@
+#mainBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 10px;
+}
+#secondaryBox{
+    width: 50%;
+    height: 70%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin: 15px;
+}
+label{
+    margin: 10px;
+    justify-content: left;
+    align-items: left;
+  }
+  #ThirdBox{
+    width: 50%;
+    height: 70%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+#radioButtons{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+  }
