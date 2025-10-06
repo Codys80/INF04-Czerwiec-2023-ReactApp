@@ -1,1 +1,1 @@
-(./inf04-2023-czerwiec-egzamin-zawodowy-praktyczny.pdf)
+[Arkusz Egzaminacyjny](./inf04-2023-czerwiec-egzamin-zawodowy-praktyczny.pdf)
